@@ -3,8 +3,8 @@
 
     <!--设置路由导航-->
     <div class="nav">
-      <router-link to="/home">首页</router-link>
-      <router-link to="/about">关于我们</router-link>
+      <router-link to="/dashboard">dashboard</router-link>
+      <router-link to="/login">login</router-link>
     </div>
     <!--设置路由出口-->
     <router-view/>
